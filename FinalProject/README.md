@@ -1,7 +1,7 @@
 # Final Project: Bouncing Balls In Space!
 ## Kevin Rau
 
-Code inspired form Ex13, Ex18, Ex25 and online sources stated in lights.c & textures.c
+Code inspired from Ex13, Ex18, Ex25 and online sources stated in lights.c & textures.c
 
 
 
